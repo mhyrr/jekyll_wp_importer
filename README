@@ -1,0 +1,5 @@
+A little importer for importing a Wordpress export XML file into something semi-readable by Jekyll.  Depending on what you did for Wordpress, you may have issues with the markdown.  
+
+I left this separate from Jekyll as its sort of ugly and not a very clean converter, but it worked for me.
+
+The parsing code for the Wordpress XML came from swenson's scanty importer.   
